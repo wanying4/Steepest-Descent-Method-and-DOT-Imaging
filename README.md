@@ -6,3 +6,18 @@ This project synthesizes measurement data by solving the 2-dimensional finite vo
 
 The $\mu_a$ profile (left) and the gradient (right) at the 100th iteration. Color bar of $\mu_a$ is in the unit of $cm^{-1}$.
 ![mua_grad_iter_100](mua_grad_iter_100.jpg)
+
+The $\mu_a$ profile (left) and the gradient (right) at the 500th iteration.
+![mua_grad_iter_500](mua_grad_iter_500.jpg)
+
+The $\mu_a$ profile (left) and the gradient (right) at the 1000th iteration.
+![mua_grad_iter_1000](mua_grad_iter_1000.jpg)
+
+The $\mu_a$ profile (left) and the gradient (right) at the 5000th iteration.
+![mua_grad_iter_5000](mua_grad_iter_5000.jpg)
+
+The $\mu_a$ profile (left) and the gradient (right) at the 10000th iteration.
+![mua_grad_iter_10000](mua_grad_iter_10000.jpg)
+
+The $\mu_a$ profile (left) and the gradient (right) at the 35000th iteration.
+![mua_grad_iter_35000](mua_grad_iter_35000.jpg)
