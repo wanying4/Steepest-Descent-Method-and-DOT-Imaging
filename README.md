@@ -5,12 +5,14 @@ Diffuse Optical Tomography (DOT) is an non-invasive optical imaging technique th
 This project synthesizes measurement data by solving the 2-dimensional finite volume forward model with a set of known optical properties. This projects examines one of the reconstruction algorithms - the steepest descent method in combination with inexact line search - in the task of reconstructing the absorption profile.
 
 
-## The Original Optical Properties
+## Original Optical Properties
 
 The original $\mu_a$ profile:
 ![original_mua](original_mua.jpg)
 
-## The location of detectors are shown as the colored dots on the boundaries
+## Detectors Used by the Reconstruction Algorithm
+
+The location of detectors are shown as the colored dots on the boundaries:
 
 ![detector_loc](detector_loc.jpg)
 
